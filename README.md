@@ -40,7 +40,7 @@ During my previous experiences and due to my relocation to London I came across 
 - An essential skill learned: How to learn a new technology and extract common behaviours
   and patterns in order to minimise transition time. 
 ```
-#### University of West London / BIMM London (October 2012 to July 2015)
+#### University of West London / BIMM London (October 2014 to July 2015)
 ```
 - Songwriting/Music Technology
 - 2:1
