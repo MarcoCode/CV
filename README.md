@@ -45,6 +45,9 @@ During my previous experiences and due to my relocation to London I came across 
 - Songwriting/Music Technology
 - 2:1
 - Practical experience with DAW's: Logic/ProTools/Ableton
+- Composition for the Moving Image
+- Music Business Landscape
+- Music Pedagogy 
 ```
 
 ## Experience
