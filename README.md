@@ -1,6 +1,6 @@
 ## Marco Bagnasco
 
-I am a human being split between a keen interest for music/communication and an innate passion for technology. After relocating to London, and completed a BA, I am currently helping the management of a private Music School. In the future I see the possibility to teach and use technology as a mean to enhance and empower human expression and communication.   
+I have always been split between a keen interest for music/communication and an innate passion for technology. After relocating to London, and completed a BA, I am currently helping the management of a private Music School. In the future I see the possibility to teach and use technology as a mean to enhance and empower human expression and communication.   
 
 ## Skills
 
