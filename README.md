@@ -48,14 +48,15 @@ During my previous experiences and due to my relocation to London I came across 
 ```
 
 ## Experience
-
+```
 **Young Harmonisers/Self Employed** (January 2016 to present)    
 - Manager 
 **Young Harmonisers/Self Employed** (October 2012 to December 2015)    
 - Music(Drums) Teacher 
 **SSP UK** (September 2011 to July 2012)   
 - Team Leader
-**Self Employed**(2008 - 2010) 
+**Self Employed** (2008 - 2010) 
 - Various 
 **TELMEC S.n.c.** (January 1999 to July 2007)
 - Computer Engineer 
+```
