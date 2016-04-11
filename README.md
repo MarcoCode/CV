@@ -15,6 +15,11 @@ TDD and BDD experience, along with agile methodologies and pair programming sess
 - As part of a team of 5 developers, I contributed to the creation of a full-stack
   Music streaming service using AngularJs and Rails based API in less than 2 weeks. 
 ```
+| Project Description        |    Link        | 
+| ------------- |:-------------:| 
+| Instagram clone as part of Week 7 week-end challenge, built using Ruby on Rails.     | [Pictagram] (https://https://picta-challenge.herokuapp.com) |
+| As final project @Makers Academy, in a team of 5, we built a SPA music streaming service using AngularJS and Rails API.      | [FairMuse](https://github.com/marcocode/fairMuse) |   
+|As part of Week 8, in a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This project was done to learn AngularJs, and has been completed without prior knowledge of the framework. | [Github Profiler] (https://github.com/marcocode/githubProfiles)   |  
 #### Team work
 
 During my previous experiences and due to my relocation to London I came across a multitude of cultures and realities allowing my communication skills to be effective in many different scenarios. 
