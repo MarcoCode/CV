@@ -14,7 +14,6 @@ TDD and BDD experience, along with agile methodologies and pair programming sess
   at the European leading coding bootcamp.
 - As part of a team of 5 developers, I contributed to the creation of a full-stack
   Music streaming service using AngularJs and Rails based API in less than 2 weeks. 
-- {{Link to Heroku/deployed app}}
 ```
 #### Team work
 
@@ -25,9 +24,9 @@ During my previous experiences and due to my relocation to London I came across 
 - I can be flexible in many roles inside a team, leading if necessary but willing to step back
   and support if that is what the situation requires. 
 - I am proud of the achievements of the management / teachers team at Young Harmonisers UK,
-  helping young students in East London learning an instrument. 
-- {{Link to YH Website}}
+  guiding young students in East London into learning a musical instrument. 
 ```
+  [Young Harmonisers UK](http://www.youngharmonisers.co.uk)
 ## Education
 
 #### Makers Academy (December 2015 to April 2016)
