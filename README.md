@@ -1,7 +1,6 @@
 ## Marco Bagnasco
 
-I have always been split between a keen interest for music/communication and an innate passion for technology. After relocating to London, and completing a BA, I started helping with the management of a private Music School. In the future I see the possibility to teach and use technology as a mean to enhance human expression and communication. 
-I am available to hire as a junior developer. 
+Technology has always been a part of my life. After relocating to London, and completing a BA, I realised that coding was the essential skill I was missing. I am now committed to become the best developer I can be. In the future I see the possibility to teach and use technology as a mean to enhance human expression and communication. 
 
 ## Skills
 
@@ -17,6 +16,7 @@ TDD and BDD experience, along with agile methodologies and pair programming sess
 ```
 | Project Description        |    Link        | 
 | ------------- |:-------------:| 
+| GitHUb public repository browser, using pure vanilla JS (ES5).     | [GitAPIVanilla] (https://marfeel-vanilla-js-tt.herokuapp.com/) |
 | Instagram clone as part of Week 7 week-end challenge, built using Ruby on Rails.     | [Pictagram] (https://picta-challenge.herokuapp.com) |
 | As final project @Makers Academy, in a team of 5, we built a SPA music streaming service using AngularJS and Rails API.      | [FairMuse](https://github.com/marcocode/fairMuse) |   
 |As part of Week 8, in a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This project was done to learn AngularJs, and has been completed without prior knowledge of the framework. | [Github Profiler] (https://github.com/marcocode/githubProfiles)   | 
