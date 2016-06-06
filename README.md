@@ -16,7 +16,7 @@ TDD and BDD experience, along with agile methodologies and pair programming sess
 ```
 | Project Description        |    Link        | 
 | ------------- |:-------------:| 
-| GitHub public repository browser, made using pure vanilla JavaScript (ES5).     | [GitAPIVanilla] (https://marfeel-vanilla-js-tt.herokuapp.com/) |
+| GitHub public repository browser, made using pure vanilla JavaScript (ES5/6).     | [GitAPIVanilla] (https://marfeel-vanilla-js-tt.herokuapp.com/) |
 | Instagram clone as part of Week 7 week-end challenge, built using Ruby on Rails.     | [Pictagram] (https://picta-challenge.herokuapp.com) |
 | As final project @Makers Academy, in a team of 5, we built a SPA music streaming service using AngularJS and Rails API.      | [FairMuse](https://github.com/marcocode/fairMuse) |   
 |As part of Week 8, in a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This project was done to learn AngularJs, and has been completed without prior knowledge of the framework. | [Github Profiler] (https://github.com/marcocode/githubProfiles)   | 
@@ -58,9 +58,9 @@ During my previous experiences and due to my relocation to London I came across 
 
 ## Experience
 
-**Young Harmonisers/Self Employed** (January 2016 to present) 
+**Young Harmonisers/Self Employed** (January 2016 to June 2016) 
 ```
-- Manager 
+- Manager / Junior Web Developer
 ```
 **Young Harmonisers/Self Employed** (October 2012 to December 2015) 
 ```
